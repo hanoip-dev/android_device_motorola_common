@@ -19,7 +19,7 @@ BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
 COMMON_PATH := device/motorola/common
 
 # AOSP
-TARGET_BUILDS_AOSP := true
+TARGET_BUILDS_AOSP := false
 
 # Recovery
 TARGET_NO_RECOVERY ?= false
